@@ -8,4 +8,4 @@ Hello! My name is Rachel (she/her) and I'm a graduate student at Carnegie Mellon
 As someone who is interested in pursuing a career in environmental policy, I am keen to apply the best practices for presenting data to communicate the seriousness of the climate crisis while also motivating people to take action for a better future. I think that data is a key ingredient in storytelling, and that effective storytelling is one of the most powerful tools for enacting change. I'm looking forward to practicing making data visualizations in this class, and then applying the skills I acquire "out in the real world" after graduating! 
 
 # Portfolio
-[Link to other page] (dataviz2.md)
+<iframe src="https://data.oecd.org/chart/6gJD" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gJD" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2010</a></iframe>
