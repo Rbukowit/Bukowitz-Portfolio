@@ -8,4 +8,4 @@ Hello! My name is Rachel (she/her) and I'm a graduate student at Carnegie Mellon
 As someone who is interested in pursuing a career in environmental policy, I am keen to apply the best practices for presenting data to communicate the seriousness of the climate crisis while also motivating people to take action for a better future. I think that data is a key ingredient in storytelling, and that effective storytelling is one of the most powerful tools for enacting change. I'm looking forward to practicing making data visualizations in this class, and then applying the skills I acquire "out in the real world" after graduating! 
 
 # Portfolio
-[Link to page](/dataviz2.md)
+[Click here to access my visualizations of government debt](/dataviz2.md)
