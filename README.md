@@ -9,3 +9,5 @@ As someone who is interested in pursuing a career in environmental policy, I am 
 
 # Portfolio
 [Click here to access my visualizations of government debt.](/dataviz2.md)
+
+[Click here to access my "Critique by Design" assignment.](/CritiqueByDesign.md)
