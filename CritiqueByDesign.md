@@ -73,3 +73,5 @@ I also decided to reduce the scale to only show the top 10 most populous cities,
 After I completed my critique, I worked on my wireframes. Taking ideas from my head and building them in Balsamiq helped give me a more concrete idea about what my final product may look like. Gaining user feedback from my two friends was also incredibly helpful. Their comments made me realize that I needed to be explicit in my labeling and develop more interesting components to the visualization (numbering the scale, changing the bubble size, adding color, etc). 
 
 Finally, I combined all that I learned from my critique, wireframes, and user feedback to create my redesign. I picked a straightforward design with a clear title. I incorporated an interactive timeline, and removed unnecessary "chart junk" like the legend and grid lines. As a result, my redesign is concise and effective.
+
+Please use this link to go back to my portfolio: https://rbukowit.github.io/Bukowitz-Portfolio/
