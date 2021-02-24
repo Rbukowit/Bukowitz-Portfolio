@@ -74,4 +74,4 @@ After I completed my critique, I worked on my wireframes. Taking ideas from my h
 
 Finally, I combined all that I learned from my critique, wireframes, and user feedback to create my redesign. I picked a straightforward design with a clear title. I incorporated an interactive timeline, and removed unnecessary "chart junk" like the legend and grid lines. As a result, my redesign is concise and effective.
 
-Please use this link to go back to my portfolio: https://rbukowit.github.io/Bukowitz-Portfolio/
+Please use this link to go back to my portfolio: [GitHub] (https://rbukowit.github.io/Bukowitz-Portfolio/)
