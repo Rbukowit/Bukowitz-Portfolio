@@ -16,4 +16,4 @@ There are seemingly endless ways to visualize data. In this exercise, a bar char
 
 All of the data visualizations on this page were made with raw data sourced from the OECD: OECD (2021), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 12 February 2021).
 
-Please use this link to go back to my portfolio: https://rbukowit.github.io/Bukowitz-Portfolio/
+Please use this link to go back to my portfolio: [Rachel Bukowitz Portfolio](https://rbukowit.github.io/Bukowitz-Portfolio/)
