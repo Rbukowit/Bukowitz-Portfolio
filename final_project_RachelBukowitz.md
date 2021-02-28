@@ -14,27 +14,34 @@ I want to provide readers with more insight into the value of horseshoe crabs so
 **Please note, the data shown in these sketches is not accurate as these are only the preliminary sketches used to show the overall concept for the final visualizations.**
 
 I plan to use a network diagram for my first sketch to emphasize how many species depend on horseshoe crabs. An initial sketch is provided below. 
+
 ![IMG_0482](https://user-images.githubusercontent.com/78364263/109427196-3c298300-79bf-11eb-9aee-b51771d47934.jpg)
 
 
 
 Next, I plan to use a line graph to show the rising biomedical horseshoe crab mortalities over time. I will also include a reference line to show how much mortalities have exceeded the mortality threshold determined by the Atlantic States Marine Fisheries Commission. An initial sketch is provided below. 
+
 ![IMG_0484](https://user-images.githubusercontent.com/78364263/109427209-4b103580-79bf-11eb-94eb-c7e20112014e.jpg)
 
 Finally, I plan to include a bar chart showing red knot's declining population over time. An initial sketch is provided below. 
+
 ![Initial sketch red knot](https://user-images.githubusercontent.com/78364263/109427219-59f6e800-79bf-11eb-9e3d-f6788d92e12c.jpg)
 
 # The Data
 For my data on horseshoe crabs’ role in their ecosystem, I will be drawing from a chapter in *Biology and Conservation of Horseshoe Crabs*, called *The Ecological Importance of Horseshoe Crabs in Estuarine and Coastal Communities: A Review and Speculative Summary.* This chapter is freely available from [SpringerLink](https://doi.org/10.1007/978-0-387-89959-6_3). It provides an in-depth discussion of horseshoe crabs’ interrelationships with other species, which I will use to create my full network diagram. 
 
 My data on horseshoe crabs’ mortality will be sourced from the [Atlantic States Marine Fisheries Commission’s 2019 Horseshoe Crab Benchmark Stock Assessment and Peer Review Report (May 2019)](http://www.asmfc.org/uploads/file/5cd5d6f1HSCAssessment_PeerReviewReport_May2019.pdf). I am particularly interested in the Table 15 page 119 of the report (shown below) that provides data on the number of horseshoe crabs that were collected, bled, and died as part of the biomedical harvesting of the crabs. I will use this data in at least one of my visualizations during the conflict portion of my story to show that horseshoe crab mortality from biomedical harvesting has increased over time. This data is freely accessible from the [Atlantic States Marine Fisheries Commission’s website](http://www.asmfc.org/species/horseshoe-crab). 
+
 ![horseshoe crab mortality table](https://user-images.githubusercontent.com/78364263/109427593-084f5d00-79c1-11eb-8d05-eba0c84b592f.png)
+
 Image source: ASMFC. 2019. 2019 Horseshoe Crab Benchmark Stock Assessment and Peer Review Report. ASMFC, Arlington, VA. pp. 119
 
 I may also use data from the [Delaware Bay Horseshoe Crab Survey](https://www.delawarebayhscsurvey.org/surveyreports) if I decide to narrow my story to the Delaware Bay, an important horseshoe crab habitat. The survey reports provide seasonal estimates of the horseshoe crab populations in Delaware Bay from 1999 to 2019. It may be useful to incorporate this data into my narrative about the vulnerability of horseshoe crab populations. This data is freely available.
 
 In addition to horseshoe crabs, I also think it is important to include red knots in my story since their migration survival is linked to the availability of horseshoe crab eggs. Right now, the best data source I have found for red knots is the Species Status Assessment Report for the Rufa Red Knot, prepared by Wendy Walsh of the U.S. Fish and Wildlife Service, New Jersey Ecological Services Field Office. This report includes a table with aerial counts of red knots dating back to 1982 (shown below). This report is freely available online at [this website](https://ecos.fws.gov/ServCat/DownloadFile/187781). 
+
 ![red knot population table](https://user-images.githubusercontent.com/78364263/109427612-21f0a480-79c1-11eb-8358-207e5760ccee.png)
+
 Image source: U.S. Fish and Wildlife Service. 2020. Species status assessment report for the rufa red knot (Calidris canutus rufa). Version 1.1. Ecological Services New Jersey Field Office, Galloway, New Jersey. pp. 22.
 
 # Method and Medium
