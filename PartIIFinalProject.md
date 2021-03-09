@@ -8,7 +8,7 @@ I created the following storyboard with wireframes for my final project.
 
 ## Target audience: 
 
-Given that my story focuses on another species and its importance to its ecosystem, the target audience for my story is teenagers or adults who feel a connection to and appreciation for nature (henceforth called nature lovers). I imagine my nature-loving audience is similar to the audience that National Geographic appeals to. Although my story focuses on horseshoe crabs, the story is not intended for audiences who are experts in horseshoe crabs, but rather audiences that are interested, but uninformed about horseshoe crabs and their ecosystem. In this way, my story can stand to educate others who may then be inclined to take action towards protecting horseshoe crabs.
+Given that my story focuses on another species and its importance to its ecosystem, the target audience for my story is teenagers or adults who feel a connection to and appreciation for nature (henceforth called nature lovers). I imagine my nature-loving audience is similar to the audience that National Geographic appeals to. Although my story focuses on horseshoe crabs, the story is not intended for audiences who are experts in horseshoe crabs, but rather audiences that are interested, but uninformed, about horseshoe crabs and their ecosystem. In this way, my story can stand to educate others who may then be inclined to take action towards protecting horseshoe crabs.
 
 ## Sample:
 
@@ -59,7 +59,7 @@ In response to my interviews, I plan to make the following changes:
 3.  I will keep the visual of the web diagram that shows horseshoe crabs relation to other species since two of my interviewees said they liked that. However, I will remake it so that it is better aligned, and change the colors so that it better matches with the other visuals.
 4.  I will emphasize the mortality chart since that resonated with one of my interviewees. 
 5.  I will add an image of a red knot (if I can find one that is freely accessible).
-6.  I will add captions of some sort of primer to my visuals to better integrate them with my text. 
+6.  I will add captions or some sort of primer to my visuals to better integrate them with my text. 
 7.  I will give more context to the alternative endotoxin test, the other factors impacting horseshoe crab populations, and the other factors impacting red knot populations.
 
 # Moodboard
