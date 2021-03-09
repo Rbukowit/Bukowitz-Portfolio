@@ -25,19 +25,13 @@ From these interviews, I hope to find out what sticks out to people who read my 
 I used the following questions in the order in which they are presented as my script for my interviews.
 
 Goal |	Question(s)
------------------------
+------ | -----------------
 Engaging | What is the first thing that sticks in your mind from this story?
-
 Informativeness | Did you know about this topic before you read the story?  Did you learn something new from this story?
-
 Comprehensibility | Can you tell me what you think the purpose of this story was? What is the problem? What is the solution? 
-
 Logical Flow | Did the story make sense to you in the order in which it was presented?  Do you think the visualizations flowed within the storyline?
-
 Convincingness | Do you feel motivated to take action against this problem? If no, do you have any thoughts about what would motivate you to take action?
-
 Interpretability | What did you find confusing?
-
 Improvement | What would you change? Is there anything more you would like to know more about on this topic?
 
 ## Interview Findings
@@ -45,7 +39,7 @@ Improvement | What would you change? Is there anything more you would like to kn
 Below is a table of direct quotes from my three interviews. Especially important takeaways are emphasized in bold.
 
 Question(s) | 	Naturalist, female, mid-50s |	Pharmacist and hiker, female, late-20s |	Snowmobile and kayak guide, male, early-20s |
-------------------------------------
+------------- | ------- | ------- |---------
 What is the first thing that sticks in your mind from this story? | How much we (people) rely on nature. | Horseshoe crab blood is very useful and incredibly creepy. **The visual of the mortalities with the shading stood out.** | How crucial the area where the horseshoe crabs spawn is for the red knot population.
 Did you know about this topic before you read the story?  Did you learn something new from this story? | I knew there was overharvesting of horseshoe crabs, but I did not know about the medical purposes. I learned more about the medical necessity for why they are overharvested. I also learned that you won’t get bit from flipping the crab over. I also didn’t realize how many relationships existed from the horseshoe crab. | I knew nothing about this beforehand, and I am intrigued and shocked that I am a pharmacist and I that I knew nothing of this. | I had vaguely remembered something about horseshoe crab blood being blue, but I didn’t know anything about the importance of it. I learned how crucial it is that the horseshoe crab eggs provide nourishment for the red knots.
 Can you tell me what you think the purpose of this story was? What is the problem? What is the solution? | Purpose- First I thought this is going to be a story about humans are destroying nature, but then at the end, I felt like it was more of a public awareness issue because there are still things we can do to make it better. Problem- too much of an environmental impact to get this blue blood. Solution- raising awareness and more research | Purpose- To draw attention to the demand for horseshoe crab blood vs the supply and the impact that demand is having on the horseshoe crab and other species populations. Problem- the demand for the endotoxin tests is steadily increasing so the need for horseshoe crab blood is also increasing, but when they are released some are dying so the supply of horseshoe crabs is declining which impacts the medical field and other species. Solution-  for the medical field to adopt the new test method, but that being said, I don’t know the pros and cons of that test so more info on that would be useful. Another solution is education to the general public is that you can pick them up. | Purpose- To create more awareness about horseshoe crabs and what they provide for our ecosystem. Problem- scientists want horseshoe crab blood, but they are on the threshold of becoming endangered. They are only looked at for their blood and how they can help people, and not for their environment and how they can help their ecosystem.Solution- In Delaware Bay, there are volunteer counts of horsehose crabs.  
