@@ -75,6 +75,9 @@ Below is my moodboard for this project.
 ![HSC Moodboard](https://user-images.githubusercontent.com/78364263/110418455-9385be00-8065-11eb-86f1-92ebd24974fb.png)
 
 
+Please use this link to go back to my portfolio: [Rachel Bukowitz Portfolio](https://rbukowit.github.io/Bukowitz-Portfolio/)
+
+
 
 
 
