@@ -1,6 +1,6 @@
 # Wireframes and Storyboards
 
-I created the following storyboard, including wireframes of my visualizations for my final project. 
+I created the following storyboard with wireframes for my final project. 
 
 [Storyboard with wireframes.pdf](https://github.com/Rbukowit/Bukowitz-Portfolio/files/6105704/Storyboard.for.final.data.viz.proj.interviews.pdf)
 
