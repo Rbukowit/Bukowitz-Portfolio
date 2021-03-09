@@ -70,6 +70,9 @@ In response to my interviews, I plan to make the following changes:
 
 # Moodboard
 
+Below is my moodboard for this project.
+
+![HSC Moodboard](https://user-images.githubusercontent.com/78364263/110418455-9385be00-8065-11eb-86f1-92ebd24974fb.png)
 
 
 
