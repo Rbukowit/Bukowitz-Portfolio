@@ -13,3 +13,5 @@ As someone who is interested in pursuing a career in environmental policy, I am 
 [Click here to access my "Critique by Design" assignment.](/CritiqueByDesign.md)
 
 [Click here to access Part 1 of my final project.](/final_project_RachelBukowitz.md)
+
+[Click here to access Part 2 of my final project.](/PartIIFinalProject.md) 
