@@ -27,11 +27,17 @@ I used the following questions in the order in which they are presented as my sc
 Goal |	Question(s)
 -----------------------
 Engaging | What is the first thing that sticks in your mind from this story?
+
 Informativeness | Did you know about this topic before you read the story?  Did you learn something new from this story?
+
 Comprehensibility | Can you tell me what you think the purpose of this story was? What is the problem? What is the solution? 
+
 Logical Flow | Did the story make sense to you in the order in which it was presented?  Do you think the visualizations flowed within the storyline?
+
 Convincingness | Do you feel motivated to take action against this problem? If no, do you have any thoughts about what would motivate you to take action?
+
 Interpretability | What did you find confusing?
+
 Improvement | What would you change? Is there anything more you would like to know more about on this topic?
 
 ## Interview Findings
