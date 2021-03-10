@@ -64,7 +64,7 @@ In response to my interviews, I plan to make the following changes:
 
 # Moodboard
 
-Below is my moodboard for this project.
+Below is my moodboard for this project. The inspiration came from pictures of horseshoe crabs and red knots in the wild since they are the main focus of the project. I used blue colors since horseshoe crab blood is blue and because the horseshoe crabs live in water/ beach environments (and people associate water with the color blue). I also used a sandy color (again, a connection to the beach), and a dark gray color which ties in with the horseshoe crabs' shells. 
 
 ![HSC Moodboard](https://user-images.githubusercontent.com/78364263/110418455-9385be00-8065-11eb-86f1-92ebd24974fb.png)
 
