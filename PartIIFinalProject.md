@@ -70,6 +70,7 @@ Below is my moodboard for this project.
 
 
 Please use this link to see Part 1 of my project: [Final Project Part 1](final_project_RachelBukowitz.md)
+
 Please use this link to go back to my portfolio: [Rachel Bukowitz Portfolio](https://rbukowit.github.io/Bukowitz-Portfolio/)
 
 
