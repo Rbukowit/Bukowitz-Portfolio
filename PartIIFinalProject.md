@@ -70,7 +70,9 @@ Below is my moodboard for this project. The inspiration came from pictures of ho
 ![HSC Moodboard](https://user-images.githubusercontent.com/78364263/110418455-9385be00-8065-11eb-86f1-92ebd24974fb.png)
 
 
-Please use this link to see Part 1 of my project: [Final Project Part 1](final_project_RachelBukowitz.md)
+Please use this link to see Part I of my project: [Final Project Part I](final_project_RachelBukowitz.md)
+
+Please use this link to see Part III of my project: [Final Project Part III](FinalProjectPartIII.md)
 
 Please use this link to go back to my portfolio: [Rachel Bukowitz Portfolio](https://rbukowit.github.io/Bukowitz-Portfolio/)
 
