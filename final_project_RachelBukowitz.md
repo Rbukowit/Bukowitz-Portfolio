@@ -1,3 +1,5 @@
+# Final Project Part I
+
 # Outline
 ## High-Level Summary 
 Horseshoe crab blood is hyper-sensitive to bacterial toxins and consequently is used to test the safety of many medical devices and vaccines, including the Covid-19 vaccine. Horseshoe crab populations are declining, in part due to over-harvesting for biomedical purposes, which is detrimental to their ecosystems. 
@@ -53,7 +55,7 @@ As readers continue to scroll through my Shorthand site they will reach the “c
 Finally, I will end with the good news: a synthetic alternative to horseshoe crab blood has been developed for biomedical tests, and it is being implemented by some pharmaceutical companies! I will also leave readers with a call to action by including a button in my Shorthand page that links to individual actions for protecting horseshoe crabs, including volunteer efforts and educational campaigns.
 
 
-Please use this link to see Part 2 of my project: [Final Project Part 2](PartIIFinalProject.md)
+Please use this link to see Part II of my project: [Final Project Part 2](PartIIFinalProject.md)
 
 Please use this link to go back to my portfolio: [Rachel Bukowitz Portfolio](https://rbukowit.github.io/Bukowitz-Portfolio/)
 
