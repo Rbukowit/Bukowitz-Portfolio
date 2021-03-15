@@ -20,9 +20,9 @@ All in all, I realized how valuable it is to get feedback from potential users. 
 
 Please use this link to view my Final Project: [Final Project](https://carnegiemellon.shorthandstories.com/horseshoe-crabs-must-be-protected-/index.html)
 
-Please use this link to see Part I of my project: [Final Project Part 1](final_project_RachelBukowitz.md)
+Please use this link to see Part I of my project: [Final Project Part I](final_project_RachelBukowitz.md)
 
-Please use this link to see Part II of my project: 
+Please use this link to see Part II of my project: [Final Project Part II](PartIIFinalProject.md)
 
 Please use this link to go back to my portfolio: [Rachel Bukowitz Portfolio](https://rbukowit.github.io/Bukowitz-Portfolio/)
 
