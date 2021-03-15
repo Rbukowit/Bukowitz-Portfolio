@@ -18,3 +18,11 @@ Overall, I identified my audience to be “nature-lovers” ”, i.e. people who
 
 All in all, I realized how valuable it is to get feedback from potential users. Through my user research and in-class feedback I was given many suggestions on how to make my story clearer, such as adding captions and sticking with a consistent color. I also had my attention drawn to the holes in my story that people had more questions about, like how many horseshoe crabs are harvested each year? And how many eggs do horseshoe crabs lay? I was able to edit my work to fill in these gaps and provide a more comprehensive story. I also learned of an entirely new user demographic that I had not previously considered: people interested in the biomedical field. In the end, the feedback was instrumental in enhancing my story to its final version. 
 
+Please use this link to view my Final Project: [Final Project](https://carnegiemellon.shorthandstories.com/horseshoe-crabs-must-be-protected-/index.html)
+
+Please use this link to see Part I of my project: [Final Project Part 1](final_project_RachelBukowitz.md)
+
+Please use this link to see Part II of my project: 
+
+Please use this link to go back to my portfolio: [Rachel Bukowitz Portfolio](https://rbukowit.github.io/Bukowitz-Portfolio/)
+
