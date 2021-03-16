@@ -17,3 +17,6 @@ As someone who is interested in pursuing a career in environmental policy, I am 
 [Click here to access Part II of my final project.](/PartIIFinalProject.md) 
 
 [Click here to access Part III of my final project.](FinalProjectPartIII.md)
+
+[Click here to access my final project.](https://carnegiemellon.shorthandstories.com/horseshoe-crabs-must-be-protected-/index.html)
+
